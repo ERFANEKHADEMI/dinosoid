@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dinosoid
-- 👀 I’m interested in Python, Javascript, HTML, CSS,
+- 👀 I’m interested in Python, Javascript, HTML, CSS, PHP
 - 🌱 I’m currently learning many datas
 - 💞️ I’m looking to collaborate on community projects
 
