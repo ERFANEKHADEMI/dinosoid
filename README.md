@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning many datas
 - 💞️ I’m looking to collaborate on community projects
 
-![Wallpaper](https://images.wallpaperscraft.com/image/single/silhouettes_dinosaur_planet_132209_1280x720.jpg)
+[![Wallpaper](https://images.wallpaperscraft.com/image/single/silhouettes_dinosaur_planet_132209_1280x720.jpg)](https://github.com/dinosoid)
 
 <!---
 dinosoid/dinosoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
